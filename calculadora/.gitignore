@@ -1,0 +1,19 @@
+# Compilados Java
+target/
+*.class
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
