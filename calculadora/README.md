@@ -39,4 +39,4 @@ calculadora/
 
 ## Autor
 
-Thalles Bruno Goncalves Nery dos Santos — PUC Goiás, 2026
+João Pedro Cordeiro de Souza — PUC Goiás, 2026
